@@ -1,21 +1,21 @@
-# 📋 ToDo App (Android + Kotlin + Firebase Firestore)
+#  ToDo App (Android + Kotlin + Firebase Firestore)
 
 A minimalist and modern **To-Do list Android application** built using **Kotlin**, **Android Studio**, and integrated with **Firebase Firestore** for real-time cloud syncing and persistence.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add, edit, and delete tasks
-- 📅 Set due dates and priorities
-- ☁️ Sync tasks across devices using Firebase Firestore
-- 🔔 Optional reminders/notifications
-- 🌓 Light & dark theme support
-- ✨ Built using clean architecture 
+-  Add, edit, and delete tasks
+-  Set due dates and priorities
+-  Sync tasks across devices using Firebase Firestore
+-  Optional reminders/notifications
+-  Light & dark theme support
+-  Built using clean architecture 
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 
 | Task List | Add Task | Cloud Sync |
