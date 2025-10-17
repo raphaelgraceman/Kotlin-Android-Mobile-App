@@ -11,13 +11,13 @@ A minimalist and modern **To-Do list Android application** built using **Kotlin*
 - ☁️ Sync tasks across devices using Firebase Firestore
 - 🔔 Optional reminders/notifications
 - 🌓 Light & dark theme support
-- ✨ Built using clean architecture (optional)
+- ✨ Built using clean architecture 
 
 ---
 
-## 📱 Screenshots *(Optional)*
+## 📱 Screenshots
 
-<!-- Replace with your actual image paths -->
+
 | Task List | Add Task | Cloud Sync |
 |-----------|----------|------------|
 | ![Task List](screenshots/task_list.png) | ![Add Task](screenshots/add_task.png) | ![Cloud Sync](screenshots/cloud_sync.png) |
@@ -36,8 +36,4 @@ A minimalist and modern **To-Do list Android application** built using **Kotlin*
 | LiveData / Flow\*    | Reactive state handling        |
 | Dagger / Hilt\*      | Dependency Injection           |
 
-> \* Optional — based on your implementation.
 
-
-git clone https://github.com/your-username/todo-kotlin-firebase.git
-cd todo-kotlin-firebase
