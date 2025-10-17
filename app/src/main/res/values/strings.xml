@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">kotlinCloud Todo</string>
+    <string name="enter_todo">Enter todo</string>
+    <string name="add_todo">Add Todo</string>
 </resources>

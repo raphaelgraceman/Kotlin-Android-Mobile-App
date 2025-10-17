@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import com.example.kotlincloudtodo.ui.screens.TodoListScreen
 import com.example.kotlincloudtodo.ui.theme.KotlinCloudTodoTheme
 
 class MainActivity : ComponentActivity() {
@@ -12,7 +13,6 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             KotlinCloudTodoTheme {
-                //Launch the main TodoListScreen Composable
                 TodoListScreen()
             }
         }
